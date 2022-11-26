@@ -41,6 +41,8 @@ body {
 
 .fa-facebook:hover {
     background-color: #3d5b99;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .fa-twitter {
@@ -55,6 +57,8 @@ body {
 
 .fa-twitter:hover {
     background-color: #00aced;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .fa-linkedin {
     padding: 10px 14px;
@@ -68,6 +72,8 @@ body {
 
 .fa-linkedin:hover {
     background-color: #0073a4;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .fa-github {
@@ -82,6 +88,8 @@ body {
 
 .fa-github:hover {
     background-color: #5a32a3;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 }
 .fa-instagram {
@@ -91,11 +99,14 @@ body {
     -moz-transition: .5s;
     -webkit-transition: .5s;
     transition: .5s;
+    
     /* background-color: rgb(51, 193, 221); */
 }
 
 .fa-instagram:hover {
     background-color: #FF3040;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 
@@ -116,6 +127,7 @@ body {
     width: 30%;
     height: 70%;
     border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .client-img{
     display: flex;
@@ -129,6 +141,7 @@ body {
     top: -110px;
     background: rgb(2, 17, 19);
     border: rgb(231, 238, 240) 3px solid;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .Introduction-div {
